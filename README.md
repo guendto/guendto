@@ -1,6 +1,6 @@
 ### "I build software. Duh."
 
-![guendto stats card](https://github-readme-stats.vercel.app/api?username=guendto&include_all_commits=trueo&count_private=true&show_icons=true&hide_border=true&hide=prs,issues,contribs&theme=gotham)
+![guendto stats card](https://github-readme-stats.vercel.app/api?username=guendto&include_all_commits=trueo&count_private=true&show_icons=true&hide=prs,issues,contribs&theme=gotham)
 
 ![guendto lang card](https://github-readme-stats.vercel.app/api/top-langs/?username=guendto&exclude_repo=&hide=roff,makefile&langs_count=10&card_width=445&theme=gotham&layout=compact)
 
