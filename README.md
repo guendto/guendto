@@ -1,8 +1,15 @@
 ### "I build software. Duh."
 
+[![overview](https://github.com/guendto/github-stats/raw/master/generated/overview.svg)][github-stats]
+[![languages](https://github.com/guendto/github-stats/raw/master/generated/languages.svg)][github-stats]
+
+[github-stats]: https://github.com/jstrieb/github-stats
+
+<!--
 ![guendto stats card](https://github-readme-stats.vercel.app/api?username=guendto&include_all_commits=trueo&count_private=true&show_icons=true&hide=issues&theme=gotham)
 
 ![guendto lang card](https://github-readme-stats.vercel.app/api/top-langs/?username=guendto&exclude_repo=&hide=roff,makefile&langs_count=10&card_width=445&theme=gotham&layout=compact)
+-->
 
 <!--
 Here are some ideas to get you started:
